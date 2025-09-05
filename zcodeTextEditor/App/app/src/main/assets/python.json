@@ -1,0 +1,5 @@
+{
+  "keywords": ["def", "class", "if", "else", "return", "import", "for", "while"],
+  "comments": ["#"],
+  "strings": ["\"", "'"]
+}

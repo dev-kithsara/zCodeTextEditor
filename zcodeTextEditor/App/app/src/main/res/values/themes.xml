@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CodeEditor" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="actionModeStyle">@style/CustomActionMode</item>
+    </style>
+</resources>

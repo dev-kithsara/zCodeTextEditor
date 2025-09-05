@@ -1,0 +1,19 @@
+{
+  "keywords": [
+    "class", "public", "private", "protected", "static", "final", "abstract",
+    "void", "int", "float", "double", "char", "boolean", "long", "short", "byte",
+    "if", "else", "switch", "case", "default",
+    "for", "while", "do", "break", "continue",
+    "return", "new", "this", "super",
+    "try", "catch", "finally", "throw", "throws",
+    "extends", "implements", "interface",
+    "package", "import",
+    "true", "false", "null"
+  ],
+  "comments": [
+    "//", "/*", "*/"
+  ],
+  "strings": [
+    "\"", "'"
+  ]
+}

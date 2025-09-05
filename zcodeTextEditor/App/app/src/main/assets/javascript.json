@@ -1,0 +1,13 @@
+{
+  "keywords": [
+    "function", "var", "let", "const",
+    "if", "else", "switch", "case", "break", "default",
+    "for", "while", "do", "return",
+    "class", "extends", "super", "new",
+    "import", "export", "from", "as",
+    "try", "catch", "finally", "throw",
+    "true", "false", "null", "undefined"
+  ],
+  "comments": ["//", "/*", "*/"],
+  "strings": ["\"", "'", "`"]
+}

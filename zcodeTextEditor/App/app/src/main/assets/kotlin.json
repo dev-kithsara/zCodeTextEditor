@@ -1,0 +1,21 @@
+{
+  "keywords": [
+    "fun", "class", "object", "interface", "enum",
+    "val", "var", "const", "typealias",
+    "if", "else", "when",
+    "for", "while", "do", "break", "continue", "return",
+    "try", "catch", "finally", "throw",
+    "is", "in", "as",
+    "this", "super", "null", "true", "false",
+    "package", "import",
+    "override", "open", "abstract", "final",
+    "companion", "constructor", "init",
+    "lateinit", "by", "where"
+  ],
+  "comments": [
+    "//", "/*", "*/"
+  ],
+  "strings": [
+    "\"", "'"
+  ]
+}
